@@ -4,3 +4,4 @@ PoC of reporting front-end for company delivering software for digital entertain
 
 Vue 2, Vuetify, D3
 
+https://viewership-dashboard.netlify.app/
