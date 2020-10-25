@@ -310,7 +310,7 @@ export default {
     layoutCardOrder: [0, 1, 2],
     layoutCardSize: [4, 4, 4],
     years: ['0-2 years', '3-12 years', '13-19 years', '22-29 years', '30-49 years', '50-69 years', '70+'],
-    dateSelected: ["2019-08-19", "2019-08-23"],
+    dateSelected: ["2019-08-22", "2019-08-23"],
     channelsSelected: [],
     dataLoad: false,
   }),
