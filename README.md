@@ -1,19 +1,7 @@
-# project
+# viewership dashboard
 
-## Project setup
-```
-npm install
-```
+PoC of reporting front-end for company delivering software for digital entertainment industry.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Vue 2, Vuetify, D3
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://viewership-dashboard.netlify.app/
