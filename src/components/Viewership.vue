@@ -365,7 +365,7 @@ export default {
       }
       else {
         this.isLoading = true;
-        d3.csv("https://projectserver4.herokuapp.com/result2.csv").then(results => {
+        d3.csv("https://raw.githubusercontent.com/maciejg-git/viewership-dashboard/master/src/result2.csv").then(results => {
           this.isLoading = false;
           this.initData(results);
         });
